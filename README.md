@@ -2,6 +2,7 @@
 ### Клонирование репозитория
 ```
 $ git clone https://github.com/AnastasiyaGapochkina01/simple_php_app.git /var/www/simple_app
+$ cd /var/www/simple_app
 ```
 ### Создание БД
 ```
