@@ -1,4 +1,8 @@
 # Приложение, выводящее табличку автомобилей и позволяющее добавлять автомобили
+### Стек
+- nginx
+- php
+- mysql
 ### Клонирование репозитория
 ```
 $ git clone https://github.com/AnastasiyaGapochkina01/simple_php_app.git /var/www/simple_app
