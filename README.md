@@ -10,7 +10,7 @@ $ cd /var/www/simple_app
 ```
 ### Создание БД
 ```
-$ mysql -uroot -p < simple_data.sql
+$ sudo mysql < simple_data.sql
 ```
 ### Конфигурация nginx
 ```
